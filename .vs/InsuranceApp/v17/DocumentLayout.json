@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burgh\\source\\repos\\InsuranceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94337FF8-8390-45CE-B33C-0C376D48A174}|InsuranceApp\\InsuranceApp.csproj|c:\\users\\burgh\\source\\repos\\insuranceapp\\insuranceapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{94337FF8-8390-45CE-B33C-0C376D48A174}|InsuranceApp\\InsuranceApp.csproj|solutionrelative:insuranceapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94337FF8-8390-45CE-B33C-0C376D48A174}|InsuranceApp\\InsuranceApp.csproj|c:\\users\\burgh\\source\\repos\\insuranceapp\\insuranceapp\\controllers\\insureescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94337FF8-8390-45CE-B33C-0C376D48A174}|InsuranceApp\\InsuranceApp.csproj|solutionrelative:insuranceapp\\controllers\\insureescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94337FF8-8390-45CE-B33C-0C376D48A174}|InsuranceApp\\InsuranceApp.csproj|c:\\users\\burgh\\source\\repos\\insuranceapp\\insuranceapp\\models\\insuree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94337FF8-8390-45CE-B33C-0C376D48A174}|InsuranceApp\\InsuranceApp.csproj|solutionrelative:insuranceapp\\models\\insuree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94337FF8-8390-45CE-B33C-0C376D48A174}|InsuranceApp\\InsuranceApp.csproj|c:\\users\\burgh\\source\\repos\\insuranceapp\\insuranceapp\\models\\insurancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94337FF8-8390-45CE-B33C-0C376D48A174}|InsuranceApp\\InsuranceApp.csproj|solutionrelative:insuranceapp\\models\\insurancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94337FF8-8390-45CE-B33C-0C376D48A174}|InsuranceApp\\InsuranceApp.csproj|c:\\users\\burgh\\source\\repos\\insuranceapp\\insuranceapp\\views\\insuree\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94337FF8-8390-45CE-B33C-0C376D48A174}|InsuranceApp\\InsuranceApp.csproj|solutionrelative:insuranceapp\\views\\insuree\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94337FF8-8390-45CE-B33C-0C376D48A174}|InsuranceApp\\InsuranceApp.csproj|c:\\users\\burgh\\source\\repos\\insuranceapp\\insuranceapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94337FF8-8390-45CE-B33C-0C376D48A174}|InsuranceApp\\InsuranceApp.csproj|solutionrelative:insuranceapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94337FF8-8390-45CE-B33C-0C376D48A174}|InsuranceApp\\InsuranceApp.csproj|c:\\users\\burgh\\source\\repos\\insuranceapp\\insuranceapp\\views\\insuree\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94337FF8-8390-45CE-B33C-0C376D48A174}|InsuranceApp\\InsuranceApp.csproj|solutionrelative:insuranceapp\\views\\insuree\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94337FF8-8390-45CE-B33C-0C376D48A174}|InsuranceApp\\InsuranceApp.csproj|c:\\users\\burgh\\source\\repos\\insuranceapp\\insuranceapp\\views\\insuree\\admin.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94337FF8-8390-45CE-B33C-0C376D48A174}|InsuranceApp\\InsuranceApp.csproj|solutionrelative:insuranceapp\\views\\insuree\\admin.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94337FF8-8390-45CE-B33C-0C376D48A174}|InsuranceApp\\InsuranceApp.csproj|c:\\users\\burgh\\source\\repos\\insuranceapp\\insuranceapp\\views\\insuree\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94337FF8-8390-45CE-B33C-0C376D48A174}|InsuranceApp\\InsuranceApp.csproj|solutionrelative:insuranceapp\\views\\insuree\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\burgh\\source\\repos\\InsuranceApp\\InsuranceApp\\Web.config",
+              "RelativeDocumentMoniker": "InsuranceApp\\Web.config",
+              "ToolTip": "C:\\Users\\burgh\\source\\repos\\InsuranceApp\\InsuranceApp\\Web.config",
+              "RelativeToolTip": "InsuranceApp\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-07T21:14:49.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\burgh\\source\\repos\\InsuranceApp\\InsuranceApp\\Views\\Insuree\\Index.cshtml",
+              "RelativeDocumentMoniker": "InsuranceApp\\Views\\Insuree\\Index.cshtml",
+              "ToolTip": "C:\\Users\\burgh\\source\\repos\\InsuranceApp\\InsuranceApp\\Views\\Insuree\\Index.cshtml",
+              "RelativeToolTip": "InsuranceApp\\Views\\Insuree\\Index.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T19:37:25.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\burgh\\source\\repos\\InsuranceApp\\InsuranceApp\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "InsuranceApp\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\burgh\\source\\repos\\InsuranceApp\\InsuranceApp\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "InsuranceApp\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T20:17:43.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\burgh\\source\\repos\\InsuranceApp\\InsuranceApp\\Views\\Insuree\\Admin.cshtml",
+              "RelativeDocumentMoniker": "InsuranceApp\\Views\\Insuree\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\burgh\\source\\repos\\InsuranceApp\\InsuranceApp\\Views\\Insuree\\Admin.cshtml",
+              "RelativeToolTip": "InsuranceApp\\Views\\Insuree\\Admin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T19:56:54.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\burgh\\source\\repos\\InsuranceApp\\InsuranceApp\\Views\\Insuree\\Admin.cshtml",
+              "RelativeDocumentMoniker": "InsuranceApp\\Views\\Insuree\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\burgh\\source\\repos\\InsuranceApp\\InsuranceApp\\Views\\Insuree\\Admin.cshtml",
+              "RelativeToolTip": "InsuranceApp\\Views\\Insuree\\Admin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T19:56:24.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\burgh\\source\\repos\\InsuranceApp\\InsuranceApp\\Views\\Insuree\\Create.cshtml",
+              "RelativeDocumentMoniker": "InsuranceApp\\Views\\Insuree\\Create.cshtml",
+              "ToolTip": "C:\\Users\\burgh\\source\\repos\\InsuranceApp\\InsuranceApp\\Views\\Insuree\\Create.cshtml",
+              "RelativeToolTip": "InsuranceApp\\Views\\Insuree\\Create.cshtml",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAAAHIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T19:32:45.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InsureesController.cs",
+              "DocumentMoniker": "C:\\Users\\burgh\\source\\repos\\InsuranceApp\\InsuranceApp\\Controllers\\InsureesController.cs",
+              "RelativeDocumentMoniker": "InsuranceApp\\Controllers\\InsureesController.cs",
+              "ToolTip": "C:\\Users\\burgh\\source\\repos\\InsuranceApp\\InsuranceApp\\Controllers\\InsureesController.cs",
+              "RelativeToolTip": "InsuranceApp\\Controllers\\InsureesController.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAAJ4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:28:28.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Insuree.cs",
+              "DocumentMoniker": "C:\\Users\\burgh\\source\\repos\\InsuranceApp\\InsuranceApp\\Models\\Insuree.cs",
+              "RelativeDocumentMoniker": "InsuranceApp\\Models\\Insuree.cs",
+              "ToolTip": "C:\\Users\\burgh\\source\\repos\\InsuranceApp\\InsuranceApp\\Models\\Insuree.cs",
+              "RelativeToolTip": "InsuranceApp\\Models\\Insuree.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:23:11.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InsuranceContext.cs",
+              "DocumentMoniker": "C:\\Users\\burgh\\source\\repos\\InsuranceApp\\InsuranceApp\\Models\\InsuranceContext.cs",
+              "RelativeDocumentMoniker": "InsuranceApp\\Models\\InsuranceContext.cs",
+              "ToolTip": "C:\\Users\\burgh\\source\\repos\\InsuranceApp\\InsuranceApp\\Models\\InsuranceContext.cs",
+              "RelativeToolTip": "InsuranceApp\\Models\\InsuranceContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:22:27.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
